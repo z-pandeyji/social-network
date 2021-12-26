@@ -1,6 +1,6 @@
-.gitignore
-node_modules
-.env
+#.gitignore
+#node_modules
+#.env
 
 # install dependencies
 npm install
